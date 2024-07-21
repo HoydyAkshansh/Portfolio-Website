@@ -38,7 +38,8 @@ Description: A unique feature that allows users to change the theme and color sc
 Implementation:
 Theme Switcher: A dropdown menu or toggle button that enables users to switch between different themes.
 Color Picker: Allows users to choose their preferred color scheme for the website.
-Technologies Used:
+
+#Technologies Used:
 HTML: Structured the elements for theme and color selection.
 CSS: Defined different themes and color schemes.
 JavaScript: Implemented the logic to dynamically apply the selected theme and color scheme across the website.
